@@ -83,7 +83,7 @@ RLProfilePicturesREVAMP/
 - **[ItzBrank](https://github.com/ItsBrank) and [Feckless](https://www.unknowncheats.me/forum/unreal-engine-3-a/71911-thefeckless-ue3-sdk-generator.html)** - Original RLSDK Generator, UE3 SDK Generator
 - **[Vinxzn](https://x.com/vinxznrl), f40** - Testing.
 - **Atomic, Nazecham, Sun, Crimson (Uni/Swift)** - Player support
-- **Huge thanks to every donator, I appreciate the support for the plugin ❤️**\
+- **Huge thanks to every donator, I appreciate the support for the plugin ❤️**
 
 ## ⚖️ License
 
