@@ -75,7 +75,7 @@ RLProfilePicturesREVAMP/
 ## 👥 Credits
 
 - **[@borgox](https://github.com/borgox)** - Plugin development, backend, project lead
-- **[@emiisu](https://github.com/ShinyEmii)** - RLSDK Help, Reverse Engineering
+- **[@emii](https://github.com/ShinyEmii)** - RLSDK Help, Reverse Engineering
 - **[@sslowdev](https://github.com/smallest-cock)** - RLSDK Updates, Setup Help, RLSDK Generator
 - **[@exelvi](https://exelvi.xyz/)** - Website design and development
 - **[Bakkesmod](https://discord.gg/jmzW3FYC)** - Discord server, Help with Bakkesmod SDK,  Introduction to black magic
