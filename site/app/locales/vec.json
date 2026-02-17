@@ -1,0 +1,301 @@
+{
+    "metadata": {
+        "title": "RLProfilePicturesREVAMP - Avatar personalizzati per Rocket League",
+        "description": "RLProfilePicturesREVAMP permette agli utenti Epic Games di impostare avatar personalizzati in Rocket League e vedere gli avatar cross-platform. Installazione facile, configurabile e gratuito.",
+        "ogTitle": "RLProfilePicturesREVAMP - Avatar personalizzati per Rocket League",
+        "ogDescription": "Carica un avatar Epic personalizzato e visualizza gli avatar Steam/console in Rocket League con Bakkesmod.",
+        "twitterTitle": "RLProfilePicturesREVAMP - Avatar personalizzati per Rocket League",
+        "twitterDescription": "Carica un avatar Epic personalizzato e visualizza gli avatar Steam/console in Rocket League con Bakkesmod."
+    },
+    "loading": {
+        "title": "Caricamento de RLProfilePicturesREVAMP"
+    },
+    "hero": {
+        "title": "Avatar personalixài",
+        "subtitle": "par Rocket League",
+        "descriptionBig": "I utenti de Epic Games no i poe metare avatar personalixài in Rocket League - fin deso!",
+        "description": "RLProfilePicturesREVAMP el permete ai utenti de Epic de caricare avatar personalixài che altri utenti del plugin i poe vedare. In pì, varda i avatar de Steam, PSN, Xbox e Switch de tuti i xugadori - tuto queło che se poe configurare nełe inpostasion!",
+        "downloadButton": "Scarica",
+        "learnMoreButton": "Varda el tutorial",
+        "features": {
+            "customAvatars": "Carica avatar personalixài",
+            "crossPlatform": "Visualixasion multipiataforma",
+            "easyConfig": "Configurasion façiłe"
+        },
+        "verifyDownload": "Verifega el scaricamento (SHA-256):",
+        "optionalCheck": "Controlo de integrità opsionałe"
+    },
+    "features": {
+        "title": "🚀 Carateristiche ciave",
+        "subtitle": "Tuto queło che te serve par ła perfesion de l’avatar de Rocket League",
+        "customAvatar": {
+            "title": "Avatar Epic personalixài",
+            "description": "Carica el to avatar come utente de Epic Games",
+            "details": "Finalmente, i utenti de Epic Games i poe aver foto profilo personałixàe in Rocket League"
+        },
+        "crossPlatform": {
+            "title": "Visualixasion multipiataforma",
+            "description": "Varda łe foto de Steam, PSN, Xbox e Switch",
+            "details": "Varda i avatar da tute łe piataforme che i utenti de Epic de sołito no i poe vedare"
+        },
+        "configurable": {
+            "title": "Conpletamente configuràbiłe",
+            "description": "Controla ła luminosità, ła visibilità e altro ancora",
+            "details": "Personałixa ogni aspeto de come che i avatar i xe nel zogo"
+        },
+        "autoUpdates": {
+            "title": "Ajornamenti automatici",
+            "description": "El server dedicà el tien tuto sincronixà",
+            "details": "I ajornamenti automatici i fa in modo che te ghè senpre łe funsion pì nove"
+        }
+    },
+    "howItWorks": {
+        "title": "🔧 Come funsiona",
+        "subtitle": "El nostro sistema avansà el se integra sensa problemi co Rocket League par darghe ła mèjo esperiensa de avatar su tute łe piataforme.",
+        "step1": {
+            "title": "Carica el to avatar",
+            "description": "Dopara el menù del plugin par métar ła foto de profilo personalixà."
+        },
+        "step2": {
+            "title": "Archiviasion sicura del CDN",
+            "description": "A to imàjine ła vien salvà so ła nostra infrastrutura server dedicà."
+        },
+        "step3": {
+            "title": "Visibiłità istantanea",
+            "description": "Altri utenti del plugin i vede suito el vostro avatar personalixà nel xugo."
+        },
+        "step4": {
+            "title": "Magia multipiataforma",
+            "description": "Mostra i avatar de Steam/console che i utenti de Epic de sołito no i poe vedare."
+        },
+        "card1": {
+            "title": "🚀 Inpostasion istantanea",
+            "description": "Cominsia in manco de 2 minuti col nostro instałador automatico. No ghe xe bisogno de conosense tecniche.",
+            "details": "Tenpo medio de configurasion: 90 secóndi"
+        },
+        "card2": {
+            "title": "⚡ Alta Prestazione",
+            "description": "El codice otimixà el garantise zero inpato sułe prestasión de xugo e el fornise na integrasion de avatar sensa problemi.",
+            "details": "Tempi de risposta soto-miłisecondi"
+        }
+    },
+    "screenshots": {
+        "title": "📸 Vardeo in assion",
+        "subtitle": "Varda come RLProfilePicturesREVAMP el trasforma l'esperiensa de Rocket League co exénpi vixuałi e filmati de xugo veri.",
+        "inGame": "Vista in-Game",
+        "menuView": "Configurasion del menù",
+        "customAvatars": "Avatar personałixài",
+        "gallery": {
+            "screenshot1": {
+                "title": "",
+                "description": "Configurà ła łuminosità, ła vixibiłità e carica el tuo avatar co ła nostra interfacia intuitiva.",
+                "category": "Interfacia"
+            },
+            "screenshot2": {
+                "title": "Risultati in xugo",
+                "description": "Varda i avatar Epic personałixài e łe foto multipiataforma diretamente rénto Rocket League.",
+                "category": "Gameplay"
+            },
+            "screenshot3": {
+                "title": "Canbiador de foto de profilo",
+                "description": "Ajorna rapidamente e varda ła anteprima del to novo avatar co ła sincronixasion in tenpo reałe.",
+                "category": "Demo"
+            }
+        },
+        "labels": {
+            "featured": "In evidensa",
+            "viewFull": "Varda conpleto",
+            "animated": "Animà",
+            "clickToExpand": "Struca par espandare"
+        },
+        "tutorial": {
+            "title": "🎬 Tutorial de inisio vełoce",
+            "description": "Varda ła nostra guida pa ła configurasion de 60 secóndi e scominsia suito",
+            "videoNotSupported": "El browser no el soporta el tag de video."
+        }
+    },
+    "testimonials": {
+        "title": "💬 Cossa che i zugadori i dise",
+        "subtitle": "Readback dała nostra incredibiłe comunidà Rocket League",
+        "players": [
+            {
+                "name": "sunı (Toni)",
+                "comment": "ME PIASO."
+            },
+            {
+                "name": "Swift (Bepi)",
+                "comment": "Xe incredibiłe e me fa sentire su Steam."
+            },
+            {
+                "name": "𓆩𝔉40𓆪 (Joani)",
+                "comment": "Xe bon."
+            }
+        ]
+    },
+    "installation": {
+        "title": "⚡ Guida par l’instalasion",
+        "subtitle": "Scominsia in manco de 2 minuti col nostro proceso senplifegà. Sièłi tra l’instalasion automatica o manuałe.",
+        "systemRequirements": {
+            "title": "💻 Requisiti del sistema",
+            "system": {
+                "title": "Sistema",
+                "windows": "Windows 10/11",
+                "rocketLeague": "Rocket League (Epic/Steam)",
+                "bakkesmod": "Bakkesmod instałà",
+                "internet": "Conession internet ativa"
+            },
+            "avatar": {
+                "title": "Avatar",
+                "format": "Formato: PNG, JPG, JPEG",
+                "size": "Dimension consejà:"
+            }
+        },
+        "tabs": {
+            "automaticLabel": "Automatico (Consiglià)",
+            "manualLabel": "Instałasion manuałe"
+        },
+        "methods": {
+            "automatic": {
+                "title": "Instałasion automatica",
+                "subtitle": "El metodo vełoce e pì façiłe",
+                "steps": {
+                    "download": "Scarica e deszipa `RLProfilePicturesREVAMP.zip`",
+                    "close": "Sarà conpletamente Rocket League e Bakkesmod",
+                    "run": "Esegui `Plugin_Installer.bat` come aministrador",
+                    "launch": "Lansa Rocket League e divertite!"
+                },
+                "securityNote": {
+                    "title": "Nota de sicuresa",
+                    "description": "Windows Defender el poe segnałar l’instałador come insicuro. Questo xe un falso positivo parché el modifega i file Bakkesmod. Esegui come aministrador o escludi dal tuo antivirus."
+                }
+            },
+            "manual": {
+                "title": "Instałasion manuałe",
+                "subtitle": "Par utenti avansài",
+                "steps": {
+                    "unzip": "Deszipa `RLProfilePicturesREVAMP.zip` in te na cartèła",
+                    "close": "Sarà conpletamente Rocket League e Bakkesmod",
+                    "pluginsFolder": "Struca WIN+R → scrivi `%appdata%/bakkesmod/bakkesmod/plugins`",
+                    "moveDlls": "Sposta tuti e do i file `.dll` inte ła cartèła dei plugin",
+                    "cfgFolder": "Struca WIN+R → scrivi `%appdata%/bakkesmod/bakkesmod/cfg`",
+                    "editCfg": "Modifica `plugins.cfg`, zontando:",
+                    "launch": "Lancia Rocket League"
+                }
+            }
+        },
+        "verification": {
+            "title": "Verifega l'instalasion",
+            "subtitle": "Conferma che tuto funsiona ben",
+            "steps": {
+                "console": "Verzi ła console Bakkesmod (`F6`) e scrivi `plugin list`",
+                "checkPlugins": "Serca `rlprofilepicturesrevamp` e `rlpfpmanager` inte ła lista ",
+                "accessMenu": "Inte el zugo, struca `F2` → Plugin → `RLProfilePicturesREVAMP` par andar ałe inpostasion",
+                "upload": "Carica el to avatar e configura e to preferense"
+            }
+        },
+        "troubleshooting": {
+            "title": "Serve na man?",
+            "description": "Entra nel nostro server Discord par el suporto in tenpo reałe da parte deła comunidà e dei sviłupadori.",
+            "joinDiscord": "Entra en Discord"
+        }
+    },
+    "faq": {
+        "title": "❓ Domande frecuenti",
+        "subtitle": "Trova risposte rapide ałe domande comuni su l’instalasion, l’uxo e ła risołusion dei problemi. No te cati ciò che te serchi? Entra nel nostro Discord par un suporto personałixà.",
+        "questions": {
+            "tags": {
+                "setup": "Configurasion",
+                "general": "Zenerale",
+                "troubleshooting": "Risołusion dei problemi",
+                "support": "Assistensa",
+                "installation": "Instałasion",
+                "security": "Sicuressa",
+                "popular": "Popolare"
+            },
+            "uploadProfilePicture": {
+                "question": "Come faccio a caricare l'avatar?",
+                "answer": "Dopo l’instalasion, premi F2 in-game → Plugins → RLProfilePicturesREVAMP. Clicca \"Upload Avatar\" e selesiona el file de l'imagine. Asicùrate che ła sodisfa i requixidi de dimension/formato (PNG, 48x48px consejà)."
+            },
+            "otherPlayersSeeAvatar": {
+                "question": "I altri zugadori i pol védar el me avatar se no i ga el plugin?",
+                "answer": "No, soło i xogadori che ga RLProfilePicturesREVAMP instałà i pol védar i avatar Epic personalixài. Tutavia, te pol védar i avatar de Steam/consòłe anca se i altri xogadori Epic no i pol."
+            },
+            "avatarNotShowing": {
+                "question": "El me avatar no el xe drìo vegner fora o el xe masa scuro/luminoso",
+                "answer": "Prova a regolar le inpostasion de luminosità nel menu del plugin. Se no funsiona, asicurate che ła to imàjine ła rispeta i recuisiti de formato e prova a caricarla da novo."
+            },
+            "errorRemoveDll": {
+                "question": "Eror: \"Failed to remove old dll, access denied\"",
+                "answer": "Asicùrate che Rocket League el sia conpletamente sarà prima de ajornare. Se el problema el persiste, riavia el PC e esegui l'instałador come aministrador."
+            },
+            "beforeBugReport": {
+                "question": "Prima de verxare un raporto de bug, cossa dovarìa sercar?",
+                "answer": "Prova prima sti pasi: \n1) Riinstała el plugin del tuto, 2) Ajorna co l’ultimo file zip, 3) Controla che tuti e do i file DLL i sia inte ła cartèła dei plugin, 4) Verifica ła conesion a internet"
+            },
+            "errorMissingFiles": {
+                "question": "Eror: \"Missing files when running the installer\"",
+                "answer": "Questo el sucede se te scominsi l’instałador diretamente da l’interno del file ZIP. Par piaser, struca co’l boton destro su ZIP → \"Estrai tuto…\", e po’ esegui l’instałador dała carteła estrata. l’instałador el ga bisogno de tuti i file inte ła stesa cartèła par funsionar."
+            },
+            "shareLogs": {
+                "question": "Come faso a condividere i me logs de Bakkesmod par el suporto?",
+                "answer": "Struca WIN+R → scrivi %appdata%/bakkesmod/bakkesmod, serca bakkesmod.log. ⚠️ Condividi in privato con el suporto tramite Discord DM (no publicamente nei canali) per motivi de sicurezza."
+            },
+            "windowsDefenderUnsafe": {
+                "question": "Windows Defender el dise che l’instałador no l’è sicuro?",
+                "answer": "Questo xe un falso positivo parché l’instałador el modifica i file drénto Bakkesmod. Te poi escluderlo nel to antivirus o far partire l’instałador come aministratore. El software el xe conpletamente sicuro."
+            },
+            "pleaseWatchTutorial": "Varda el nostro tutorial par pì detagli"
+        },
+        "moreQuestions": {
+            "title": "Te serve ancora aiuto?",
+            "description": "Ła nostra comunidà e i sviłupadóri i xe qua par jutar! Entra nel nostro server Discord par el suporto in tenpo reałe, discusion de funsion e i ultimi ajornamenti.",
+            "joinDiscord": "Entra en Discord"
+        },
+        "search": {
+            "placeholder": "Serca łe domande...",
+            "noResults": "Nessun risultato trovà",
+            "noResultsDescription": "No rivo a catar FAQ che corisponda a ła to serca. Prova parołe ciave diverse o vardae tute łe categorie.",
+            "clearFilters": "Netezia filtri"
+        }
+    },
+    "support": {
+        "title": "Suporto & Comunidà",
+        "subtitle": "Entra nel nostro server Discord par aiuto, segnalasion de bug e discusioni de comunidà",
+        "buttons": {
+            "joinDiscord": "Entra en Discord",
+            "reportBug": "Segnała el bug",
+            "suggestions": "Sugerimenti"
+        },
+        "serverStatus": {
+            "online": "In linea",
+            "offline": "Fora servisio",
+            "checking": "Verìfica...",
+            "onlineMessage": "Servisi CDN & API operativi.",
+            "offlineMessage": "Serti servisi i pol esar fermi.",
+            "checkingMessage": "Verìfica dei server..."
+        }
+    },
+    "donation": {
+        "title": "Sostien el projeto",
+        "description": "Sto plugin el xe completamente gratuito, ma mantegner el server CDN e l’API el costa schei.",
+        "subtitle": "Ła to donasion a me juta a tegner el servisio ativo par tuti!",
+        "button": "Dona co PayPal"
+    },
+    "changelog": {
+        "title": "Log dei canbiamenti",
+        "subtitle": "Scopri tute łe nove funsion e i mejoramenti inte łe ultime version de RLProfilePicturesREVAMP",
+        "latestVersion": "Ultima version",
+        "noChangelogAvailable": "No ghe xe nessun registro de canbiamenti disponibiłe",
+        "changelogComingSoon": "El registro de canbiamenti el sarà disponibiłe al pì presto",
+        "loading": "In caricamento dei changelog...",
+        "errorLoading": "Eror nel caricamento del changelog",
+        "version": "Version"
+    },
+    "footer": {
+        "copyright": "RLProfilePicturesREVAMP © 2025 — Fato co ❤️ da Borgo",
+        "websiteBy": "Sito web de",
+        "privacyPolicy": "Informativa de Privacy",
+        "termsOfService": "Termini de servisio"
+    },
+    "backToTop": "Torna sù"
+}

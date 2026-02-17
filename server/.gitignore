@@ -1,0 +1,16 @@
+# Ignore all cache subfolders
+cache/epic/
+cache/psn/
+cache/xbox/
+cache/switch/
+cache/steam/
+*.db.backup*
+# ignore logs and local env
+logs/
+*.log
+.env
+*pycache*
+.pytest_cache
+how_to.txt
+# cpp
+*cpp_source*/

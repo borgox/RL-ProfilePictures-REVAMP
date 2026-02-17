@@ -1,0 +1,6 @@
+ignoredBuiltDependencies:
+  - '@tailwindcss/oxide'
+  - canvas
+  - core-js
+  - sharp
+  - unrs-resolver

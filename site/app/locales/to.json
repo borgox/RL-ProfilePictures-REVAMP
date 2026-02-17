@@ -1,0 +1,301 @@
+{
+    "metadata": {
+        "title": "RLProfilePicturesREVAMP - Avatar fatti pe' te su Rocket League",
+        "description": "RLProfilePicturesREVAMP ti fa mette' gli avatar su Rocket League facilmente configurabil e crosse platform. maremma maiala.",
+        "ogTitle": "RLProfilePicturesREVAMP - Avatar fatti pe' te su Rocket League",
+        "ogDescription": "Tu' poi cariha' un avatar su Rocket League e guarda' quellattri de' attre piattaforme con Bakkesmod.",
+        "twitterTitle": "RLProfilePicturesREVAMP - Avatar fatti pe' te su Rocket League",
+        "twitterDescription": "Tu' poi cariha' un avatar su Rocket League e guarda' quellaltri de' attre piattaforme."
+    },
+    "loading": {
+        "title": "E' sto carihando RLProfilePicturesREVAMP"
+    },
+    "hero": {
+        "title": "Avatar fatti pe' te",
+        "subtitle": "pe' Rocket League",
+        "descriptionBig": "E la gente su Epic Games e un poteva usa' avatar personalizzahi - fino ad ora! DE PEFFOOOOOOO!",
+        "description": "RLProfilePicturesREVAMP ti fa mette' l'avatar che tu voi e lo posson veder tutti quelli che c'hanno 'sto plugin. In piu' ti fa vede' gli avatar di Steam, PSN, Xbox e Switch - tutto smanettabile nelle impostazioni!",
+        "downloadButton": "Scarica",
+        "learnMoreButton": "Guarda i' tutorial",
+        "features": {
+            "customAvatars": "Cariha avatar che tu voi",
+            "crossPlatform": "Si vedon di tutte le piattaforme",
+            "easyConfig": "Semplice come tira' un bestemmione"
+        },
+        "verifyDownload": "Verifiha download (SHA-256):",
+        "optionalCheck": "Controllino opzionale"
+    },
+    "features": {
+        "title": "🚀 Le chicche principali",
+        "subtitle": "Tutto quello che tu' voi pe n'avatar bono in Rocket League",
+        "customAvatar": {
+            "title": "Avatar Epic su misura",
+            "description": "Metti la foto che tu voi come immagine Epic Games",
+            "details": "Alleluja i poveretti d'Epic Games ora posson mettere un avatar fiho"
+        },
+        "crossPlatform": {
+            "title": "Si vedon tutti",
+            "description": "Vedi chelli di Steam, PSN, Xbox e Switch",
+            "details": "Cosi vedi l'avatar di tutti, anche se Epic di solito 'un te li fa vede'"
+        },
+        "configurable": {
+            "title": "Tu fai come tu voi",
+            "description": "Luminosita', Visibilita' e bischerate varie",
+            "details": "Tu ti fai ogni cosa home ti garba a te"
+        },
+        "autoUpdates": {
+            "title": "Aggiornamenti automatici",
+            "description": "Server dedicato mantiene tutto sincronizzato",
+            "details": "Gli aggiornamenti automatici ti assicurano di ave' sempre le ultime bischerate"
+        }
+    },
+    "howItWorks": {
+        "title": "🔧 Come funziona",
+        "subtitle": "‘Sto coso s’attacca a Rocket League e ti fa vede’ gli avatar come un signore.",
+        "step1": {
+            "title": "Cariha l’avatar tuo",
+            "description": "Dal menu del plugin tu metti la foto che ti garba."
+        },
+        "step2": {
+            "title": "Salvato bell’e bono",
+            "description": "Sta foto finisce su’ nostri serverini, tranquillo e beato."
+        },
+        "step3": {
+            "title": "Si vede subito",
+            "description": "Chi c’ha il plugin la vede a’ volo in partita."
+        },
+        "step4": {
+            "title": "Magia cross-platform",
+            "description": "Ti fa vede’ pure gli avatar di Steam e console, mica solo Epic."
+        },
+        "card1": {
+            "title": "🚀 Setup lampo",
+            "description": "Ci metti meno di 2 minuti. Nun serve esse’ un genio del computer.",
+            "details": "Tempo medio: un minuto e mezzo col cronometro"
+        },
+        "card2": {
+            "title": "⚡ Corre come un treno",
+            "description": "Non ti rallenta nulla, gira liscio come l’olio.",
+            "details": "Risposta più veloce d’un rutto: meno d’un millisecondo"
+        }
+    },
+    "screenshots": {
+        "title": "📸 Guarda in azione",
+        "subtitle": "Oh guarda un po’ come cambia la partita co’ ‘sto plugin.",
+        "inGame": "Dentro la partita",
+        "menuView": "Dal menu",
+        "customAvatars": "Avatar su misura",
+        "gallery": {
+            "screenshot1": {
+                "title": "Menu di configurazione pe' sempliciotti",
+                "description": "Configura luminosità, visibilità, e cariha i' tu' avatar co' la nostra interfaccia intuitiva.",
+                "category": "Interfaccia"
+            },
+            "screenshot2": {
+                "title": "Risultati In Partita ",
+                "description": "Tu poi vede' avatar Epic personalizzati e fotine cross-platform direttamente dentro i' gioco ",
+                "category": "In Gioco"
+            },
+            "screenshot3": {
+                "title": "Cambia la fotina de'i tu' profilo",
+                "description": "Aggiorna di nulla e guarda’ i tu’ novo avatar con la sincronizzazioncina subito subito in tempo reale.",
+                "category": "Anteprima"
+            }
+        },
+        "labels": {
+            "featured": "In Mostra",
+            "viewFull": "Guardalo tutto",
+            "animated": "Animati",
+            "clickToExpand": "Pigia pe' ingrossarlo"
+        },
+        "tutorial": {
+            "title": "🎬 Tutorial veloce veloce",
+            "description": "Guarda i' nostro tutorial di 60 secondini pe' capire come mette' un avatar",
+            "videoNotSupported": "I' tu browser 'un supporta i tag video rincitrulliho."
+        }
+    },
+    "testimonials": {
+        "title": "💬 Che dicono i’ ragazzi",
+        "subtitle": "Gente vera, bestemmie vere",
+        "players": [
+            {
+                "name": "sunı",
+                "comment": "MI GASA DA MORI’."
+            },
+            {
+                "name": "Swift",
+                "comment": "È come gioca’ su steam, mi sento meglio."
+            },
+            {
+                "name": "𓆩𝔉40𓆪",
+                "comment": "E’ bono, nulla da di’."
+            }
+        ]
+    },
+    "installation": {
+        "title": "⚡ Come s’istalla",
+        "subtitle": "In due minuti sei a cavallo. Scegli: automatico o a’ mano.",
+        "systemRequirements": {
+            "title": "💻 Ci vole’ ‘ste cose",
+            "system": {
+                "title": "Sistema",
+                "windows": "Windows 10/11",
+                "rocketLeague": "Rocket League (Epic/Steam)",
+                "bakkesmod": "Bakkesmod gia’ messo",
+                "internet": "Internet che funziona"
+            },
+            "avatar": {
+                "title": "Fotina",
+                "format": "Solo PNG, icché tu credevi",
+                "size": "Dimensione Consigliaha:"
+            }
+        },
+        "tabs": {
+            "automaticLabel": "Automatica (Consigliatissima)",
+            "manualLabel": "Installazione Amanuense"
+        },
+        "methods": {
+            "automatic": {
+                "title": "Installazione pigra",
+                "subtitle": "Il modo più veloce, nun ci pensi manco",
+                "steps": {
+                    "download": "Scarica e scompatta `RLProfilePicturesREVAMP.zip`",
+                    "close": "Chiudi Rocket League e Bakkesmod sennò nun funziona",
+                    "run": "Avvia `Plugin_Installer.bat` co’ i permessi da sceriffo",
+                    "launch": "Apri Rocket League e via a spiccia’"
+                },
+                "securityNote": {
+                    "title": "Occhio qui",
+                    "description": "Windows Defender fa i’ bischero e dice che ‘un è sicuro. Ma nun è vero, fidati. Dagli l’ok."
+                }
+            },
+            "manual": {
+                "title": "Installazione a mano",
+                "subtitle": "Pe’ i più smanettoni",
+                "steps": {
+                    "unzip": "Scompatta i’ file ZIP in una cartella",
+                    "close": "Chiudi tutto Rocket League e Bakkesmod",
+                    "pluginsFolder": "WIN+R → `%appdata%/bakkesmod/bakkesmod/plugins`",
+                    "moveDlls": "Metti le `.dll` nella cartella plugins",
+                    "cfgFolder": "WIN+R → `%appdata%/bakkesmod/bakkesmod/cfg`",
+                    "editCfg": "Aggiungi la riga magica:",
+                    "launch": "Riavvia Rocket League e goditelo"
+                }
+            }
+        },
+        "verification": {
+            "title": "Vedi se funziona",
+            "subtitle": "Controllino veloce",
+            "steps": {
+                "console": "Apri console (`F6`) e scrivi `plugin list`",
+                "checkPlugins": "Vedi se c’è `rlprofilepicturesrevamp` e `rlpfpmanager`",
+                "accessMenu": "In partita, `F2` → Plugin → RLProfilePicturesREVAMP",
+                "upload": "Cariha avatar e settalo a modo"
+            }
+        },
+        "troubleshooting": {
+            "title": "Ti s’è rotto tutto?",
+            "description": "Entra su Discord e smadonn… ehm chiedi a noi.",
+            "joinDiscord": "Vieni su Discord"
+        }
+    },
+    "faq": {
+        "title": "❓ Domandine",
+        "subtitle": "Dubbi e bischerate, eccoti le risposte",
+        "questions": {
+            "tags": {
+                "setup": "Impostazioni",
+                "general": "Generali",
+                "troubleshooting": "Aggiustare i casini",
+                "support": "Supporto",
+                "installation": "Installazione",
+                "security": "Sicurezza",
+                "popular": "Fiha"
+            },
+            "uploadProfilePicture": {
+                "question": "Come carico la foto mia?",
+                "answer": "In gioco premi `F2` → Plugin → RLProfilePicturesREVAMP → Carica avatar. Scegli il PNG 48x48 e via."
+            },
+            "otherPlayersSeeAvatar": {
+                "question": "Gli altri lo vedono se ‘un c’hanno il plugin?",
+                "answer": "No grullo, lo vedono solo quelli co’ il plugin. Ma tu vedi i’ loro di Steam e console."
+            },
+            "avatarNotShowing": {
+                "question": "Nun si vede o è strano di colori?",
+                "answer": "Gioca co’ la luminosità nelle impostazioni. Se un va’, ricariha i’ file."
+            },
+            "errorRemoveDll": {
+                "question": "Dice che nun leva la dll vecchia?",
+                "answer": "Chiudi bene Rocket League. Se ancora rompe, riavvia e fai come admin."
+            },
+            "beforeBugReport": {
+                "question": "Prima di rompe’ i’ bischero con i bug?",
+                "answer": "Prova: reinstalla, aggiorna zip, controlla i’ folder plugins, guarda internet."
+            },
+            "errorMissingFiles": {
+                "question": "Dice che mancano file?",
+                "answer": "Nun lanciare l’installer da dentro lo zip! Estrai tutto e poi vai."
+            },
+            "shareLogs": {
+                "question": "Come gli do i log?",
+                "answer": "WIN+R → `%appdata%/bakkesmod/bakkesmod`, piglia `bakkesmod.log` e mandalo in privato su Discord."
+            },
+            "windowsDefenderUnsafe": {
+                "question": "Windows Defender sclera?",
+                "answer": "Tranquillo, è un falso positivo. Dagli la benedizione e vai."
+            },
+            "pleaseWatchTutorial": "Oh, guarda i’ tutorial se ‘un capisci nulla"
+        },
+        "moreQuestions": {
+            "title": "Ti serve ancora una spinta?",
+            "description": "La nostra comunity e i nostri sviluppatori son qui pe' aiutarti! Entra ne'i nostro server Discord pe' avere supporto immediato, parlare di roba, e vedere gli ultimi aggiornamenti",
+            "joinDiscord": "Entra n'i' server Discord"
+        },
+        "search": {
+            "placeholder": "Cerca domande...",
+            "noResults": "Nessun risultato trovaho",
+            "noResultsDescription": "Un'nho trovato un FAQ che corrisponde alla tua ricerca. Prova altre paroline o vedi tutte le categorie.",
+            "clearFilters": "Pulisci i filtri"
+        }
+    },
+    "support": {
+        "title": "Supporto & Compagnia",
+        "subtitle": "Discord, bestemmie e consigli a gratis",
+        "buttons": {
+            "joinDiscord": "Vieni su Discord",
+            "reportBug": "Segnala rotture",
+            "suggestions": "Dì la tua"
+        },
+        "serverStatus": {
+            "online": "Funziona",
+            "offline": "E’ andato a’ mare",
+            "checking": "Sto guardando...",
+            "onlineMessage": "CDN & API van da Dio.",
+            "offlineMessage": "Qualcosa s’è rotto, porta pazienza.",
+            "checkingMessage": "Un attimo e si sa."
+        }
+    },
+    "donation": {
+        "title": "Butta un obolo",
+        "description": "‘Sto coso è gratis, ma i server costan la grana.",
+        "subtitle": "Se c’hai voglia, offri un caffè!",
+        "button": "Dona co’ PayPal"
+    },
+    "changelog": {
+        "title": "Changelog",
+        "subtitle": "Scopri tutte le nuove funzionalità e miglioramenti de l'ultime versioni di RLProfilePicturesREVAMP",
+        "latestVersion": "Ultima Versione",
+        "noChangelogAvailable": "Nessun changelog disponibile",
+        "changelogComingSoon": "I changelog saranno disponibili presto",
+        "loading": "Sto caricando i changelog...",
+        "errorLoading": "Errore nel caricamento dei changelog",
+        "version": "Versione"
+    },
+    "footer": {
+        "copyright": "RLProfilePicturesREVAMP © 2025 — Fatto co’ ❤️ da Borgo",
+        "websiteBy": "Sito fatto da",
+        "privacyPolicy": "Privacy",
+        "termsOfService": "Condizioni"
+    },
+    "backToTop": "Torna in cima"
+}

@@ -1,0 +1,301 @@
+{
+    "metadata": {
+        "title": "RLProfilePicturesREVAMP - Avatar personalizzati per Rocket League",
+        "description": "RLProfilePicturesREVAMP permette agli utenti Epic Games di impostare avatar personalizzati in Rocket League e vedere gli avatar cross-platform. Installazione facile, configurabile e gratuito.",
+        "ogTitle": "RLProfilePicturesREVAMP - Avatar personalizzati per Rocket League",
+        "ogDescription": "Carica un avatar Epic personalizzato e visualizza gli avatar Steam/console in Rocket League con Bakkesmod.",
+        "twitterTitle": "RLProfilePicturesREVAMP - Avatar personalizzati per Rocket League",
+        "twitterDescription": "Carica un avatar Epic personalizzato e visualizza gli avatar Steam/console in Rocket League con Bakkesmod."
+    },
+    "loading": {
+        "title": "Caricamento RLProfilePicturesREVAMP"
+    },
+    "hero": {
+        "title": "Avatar personalizzati",
+        "subtitle": "per Rocket League",
+        "descriptionBig": "Gli utenti Epic Games non possono impostare avatar personalizzati in Rocket League - fino ad ora!",
+        "description": "RLProfilePicturesREVAMP permette agli utenti Epic di caricare avatar personalizzati che altri utenti del plugin possono vedere. Inoltre, visualizza gli avatar di Steam, PSN, Xbox e Switch di tutti i giocatori - tutto configurabile nelle impostazioni!",
+        "downloadButton": "Scarica",
+        "learnMoreButton": "Guarda il tutorial",
+        "features": {
+            "customAvatars": "Carica avatar personalizzati",
+            "crossPlatform": "Visualizzazione cross-platform",
+            "easyConfig": "Configurazione semplice"
+        },
+        "verifyDownload": "Verifica download (SHA-256):",
+        "optionalCheck": "Controllo integrità opzionale"
+    },
+    "features": {
+        "title": "🚀 Funzionalità principali",
+        "subtitle": "Tutto ciò che ti serve per l'esperienza avatar perfetta su Rocket League",
+        "customAvatar": {
+            "title": "Avatar Epic personalizzati",
+            "description": "Carica la tua immagine profilo come utente Epic Games",
+            "details": "Finalmente, gli utenti Epic Games possono avere avatar personalizzati in Rocket League"
+        },
+        "crossPlatform": {
+            "title": "Visualizzazione cross-platform",
+            "description": "Vedi le immagini profilo di Steam, PSN, Xbox e Switch",
+            "details": "Visualizza gli avatar di tutte le piattaforme che normalmente gli utenti Epic non possono vedere"
+        },
+        "configurable": {
+            "title": "Completamente configurabile",
+            "description": "Controllo luminosità, visibilità e altro",
+            "details": "Personalizza ogni aspetto di come gli avatar appaiono nel tuo gioco"
+        },
+        "autoUpdates": {
+            "title": "Aggiornamenti automatici",
+            "description": "Server dedicato mantiene tutto sincronizzato",
+            "details": "Gli aggiornamenti automatici ti assicurano di avere sempre le ultime funzionalità"
+        }
+    },
+    "howItWorks": {
+        "title": "🔧 Come funziona",
+        "subtitle": "Il nostro sistema avanzato si integra perfettamente con Rocket League per offrire la migliore esperienza avatar su tutte le piattaforme.",
+        "step1": {
+            "title": "Carica il tuo avatar",
+            "description": "Usa il menu del plugin per impostare la tua immagine profilo personalizzata."
+        },
+        "step2": {
+            "title": "Archiviazione sicura su CDN",
+            "description": "La tua immagine viene salvata sulla nostra infrastruttura server dedicata."
+        },
+        "step3": {
+            "title": "Visibilità istantanea",
+            "description": "Gli altri utenti del plugin vedono subito il tuo avatar personalizzato in gioco."
+        },
+        "step4": {
+            "title": "Magia cross-platform",
+            "description": "Visualizza gli avatar Steam/console che normalmente gli utenti Epic non possono vedere."
+        },
+        "card1": {
+            "title": "🚀 Setup istantaneo",
+            "description": "Inizia in meno di 2 minuti con il nostro programma d'installazione automatico. Non è richiesta alcuna conoscenza tecnica.",
+            "details": "Tempo medio di configurazione: 90 secondi"
+        },
+        "card2": {
+            "title": "⚡ Alta Performance",
+            "description": "Il codice ottimizzato garantisce un impatto nullo sulle prestazioni di gioco, fornendo al contempo una perfetta integrazione dell'avatar.",
+            "details": "Tempi di risposta inferiori al millisecondo"
+        }
+    },
+    "screenshots": {
+        "title": "📸 Guarda in azione",
+        "subtitle": "Scopri come RLProfilePicturesREVAMP trasforma la tua esperienza Rocket League con esempi visivi e gameplay reale.",
+        "inGame": "Visualizzazione in gioco",
+        "menuView": "Configurazione dal menu",
+        "customAvatars": "Avatar personalizzati",
+        "gallery": {
+            "screenshot1": {
+                "title": "Menu d'impostazioni Semplice",
+                "description": "Configura la luminosità, la visibilità e carica il tuo avatar con la nostra interfaccia intuitiva.",
+                "category": "Interfaccia"
+            },
+            "screenshot2": {
+                "title": "Risultati nel gioco",
+                "description": "Guarda gli avatar Epic personalizzati e le immagini multi piattaforma.",
+                "category": "Game play"
+            },
+            "screenshot3": {
+                "title": "Modifica immagine profilo",
+                "description": "Aggiorna rapidamente e visualizza in anteprima il tuo nuovo avatar con la sincronizzazione in tempo reale.",
+                "category": "Demo"
+            }
+        },
+        "labels": {
+            "featured": "In primo piano",
+            "viewFull": "Visualizza completo",
+            "animated": "Animata",
+            "clickToExpand": "Clicca per espandere"
+        },
+        "tutorial": {
+            "title": "🎬 Tutorial introduttivo rapido",
+            "description": "Guarda la nostra guida alla configurazione di 60 secondi e inizia subito",
+            "videoNotSupported": "Il tuo browser non supporta il tag video."
+        }
+    },
+    "testimonials": {
+        "title": "💬 Cosa dicono i giocatori",
+        "subtitle": "Feedback reale dalla nostra fantastica community di Rocket League",
+        "players": [
+            {
+                "name": "sunı",
+                "comment": "LO ADORO."
+            },
+            {
+                "name": "Swift",
+                "comment": "È fantastico e mi fa sentire su steam."
+            },
+            {
+                "name": "𓆩𝔉40𓆪",
+                "comment": "È buono"
+            }
+        ]
+    },
+    "installation": {
+        "title": "⚡ Guida all'installazione",
+        "subtitle": "Pronto in meno di 2 minuti con il nostro processo semplificato. Scegli tra installazione automatica o manuale.",
+        "systemRequirements": {
+            "title": "💻 Requisiti di sistema",
+            "system": {
+                "title": "Sistema",
+                "windows": "Windows 10/11",
+                "rocketLeague": "Rocket League (Epic/Steam)",
+                "bakkesmod": "Bakkesmod installato",
+                "internet": "Connessione internet attiva"
+            },
+            "avatar": {
+                "title": "Avatar",
+                "format": "Formato: PNG, JPG, JPEG",
+                "size": "Dimensione Consigliata:"
+            }
+        },
+        "tabs": {
+            "automaticLabel": "Automatica (Consigliata)",
+            "manualLabel": "Installazione Manuale"
+        },
+        "methods": {
+            "automatic": {
+                "title": "Installazione automatica",
+                "subtitle": "Metodo più veloce e semplice",
+                "steps": {
+                    "download": "Scarica e decomprimi `RLProfilePicturesREVAMP.zip`",
+                    "close": "Chiudi completamente Rocket League e Bakkesmod",
+                    "run": "Esegui `Plugin_Installer.bat` come amministratore",
+                    "launch": "Avvia Rocket League e divertiti!"
+                },
+                "securityNote": {
+                    "title": "Nota di sicurezza",
+                    "description": "Windows Defender potrebbe segnalare l'installer come non sicuro. È un falso positivo perché modifica i file di Bakkesmod. Esegui come amministratore o escludi dall'antivirus."
+                }
+            },
+            "manual": {
+                "title": "Installazione manuale",
+                "subtitle": "Per utenti avanzati",
+                "steps": {
+                    "unzip": "Decomprimi `RLProfilePicturesREVAMP.zip` in una cartella",
+                    "close": "Chiudi completamente Rocket League e Bakkesmod",
+                    "pluginsFolder": "Premi WIN+R → digita `%appdata%/bakkesmod/bakkesmod/plugins`",
+                    "moveDlls": "Sposta entrambi i file `.dll` nella cartella plugins",
+                    "cfgFolder": "Premi WIN+R → digita `%appdata%/bakkesmod/bakkesmod/cfg`",
+                    "editCfg": "Modifica `plugins.cfg`, aggiungendo:",
+                    "launch": "Avvia Rocket League"
+                }
+            }
+        },
+        "verification": {
+            "title": "Verifica installazione",
+            "subtitle": "Conferma che tutto funzioni correttamente",
+            "steps": {
+                "console": "Apri la console di Bakkesmod (`F6`) e digita `plugin list`",
+                "checkPlugins": "Cerca `rlprofilepicturesrevamp` e `rlpfpmanager` nella lista",
+                "accessMenu": "In gioco, premi `F2` → Plugin → `RLProfilePicturesREVAMP` per accedere alle impostazioni",
+                "upload": "Carica il tuo avatar e configura le preferenze"
+            }
+        },
+        "troubleshooting": {
+            "title": "Serve aiuto?",
+            "description": "Unisciti al nostro server Discord per supporto in tempo reale dalla community e dagli sviluppatori.",
+            "joinDiscord": "Unisciti a Discord"
+        }
+    },
+    "faq": {
+        "title": "❓ Domande frequenti",
+        "subtitle": "Trova risposte rapide alle domande comuni su installazione, utilizzo e risoluzione dei problemi. Non trovi ciò che cerchi? Unisciti al nostro Discord per supporto personalizzato.",
+        "questions": {
+            "tags": {
+                "setup": "Configurazione",
+                "general": "Generale",
+                "troubleshooting": "Risoluzione dei problemi",
+                "support": "Assistenza",
+                "installation": "Installazione",
+                "security": "Sicurezza",
+                "popular": "Popolare"
+            },
+            "uploadProfilePicture": {
+                "question": "Come carico la mia immagine profilo?",
+                "answer": "Dopo l'installazione, premi `F2` in gioco → Plugin → `RLProfilePicturesREVAMP`. Clicca su \"Carica avatar\" e seleziona il file immagine. Assicurati che rispetti i requisiti di formato/dimensione (PNG, 48x48px consigliato)."
+            },
+            "otherPlayersSeeAvatar": {
+                "question": "Altri giocatori vedono il mio avatar se non hanno il plugin?",
+                "answer": "No, solo chi ha RLProfilePicturesREVAMP installato può vedere gli avatar Epic personalizzati. Tuttavia, puoi vedere gli avatar Steam/console anche se altri utenti Epic non possono."
+            },
+            "avatarNotShowing": {
+                "question": "Il mio avatar non appare o è troppo scuro/luminoso",
+                "answer": "Prova a regolare la luminosità nel menu del plugin. Se non funziona, assicurati che l'immagine rispetti i requisiti e prova a ricaricarla."
+            },
+            "errorRemoveDll": {
+                "question": "Errore: \"Impossibile rimuovere la vecchia dll, accesso negato\"",
+                "answer": "Assicurati che Rocket League sia completamente chiuso prima di aggiornare. Se il problema persiste, riavvia il PC ed esegui l'installer come amministratore."
+            },
+            "beforeBugReport": {
+                "question": "Cosa devo provare prima di aprire una segnalazione bug?",
+                "answer": "Prova questi passaggi: 1) Reinstalla completamente il plugin, 2) Aggiorna con l'ultimo file zip, 3) Verifica che entrambi i file DLL siano nella cartella plugins, 4) Controlla la connessione internet"
+            },
+            "errorMissingFiles": {
+                "question": "Errore: \"File mancanti durante l'esecuzione dell'installer\"",
+                "answer": "Succede se avvii l'installer direttamente dal file ZIP. Fai clic destro sullo ZIP → \"Estrai tutto...\", poi esegui l'installer dalla cartella estratta. L'installer ha bisogno di tutti i file nella stessa cartella."
+            },
+            "shareLogs": {
+                "question": "Come condivido i log di Bakkesmod per il supporto?",
+                "answer": "Premi `WIN+R` → digita `%appdata%/bakkesmod/bakkesmod`, cerca `bakkesmod.log`. ⚠️ Condividi privatamente con il supporto via DM Discord (non pubblicamente nei canali) per motivi di sicurezza."
+            },
+            "windowsDefenderUnsafe": {
+                "question": "Windows Defender dice che l'installer non è sicuro?",
+                "answer": "È un falso positivo perché l'installer modifica i file di Bakkesmod. Puoi escluderlo dall'antivirus o eseguire come amministratore. Il software è completamente sicuro."
+            },
+            "pleaseWatchTutorial": "Guarda il nostro tutorial per maggiori dettagli"
+        },
+        "moreQuestions": {
+            "title": "Hai ancora bisogno di aiuto?",
+            "description": "La nostra community e gli sviluppatori sono qui per aiutarti! Unisciti al nostro server Discord per supporto in tempo reale, discussioni sulle funzionalità e gli ultimi aggiornamenti.",
+            "joinDiscord": "Unisciti a Discord"
+        },
+        "search": {
+            "placeholder": "Cerca domande...",
+            "noResults": "Nessun risultato trovato",
+            "noResultsDescription": "Non riesco a trovare FAQ che corrispondano alla tua ricerca. Prova parole chiave diverse o sfoglia tutte le categorie.",
+            "clearFilters": "Cancella filtri"
+        }
+    },
+    "support": {
+        "title": "Supporto & Community",
+        "subtitle": "Unisciti al nostro server Discord per aiuto, segnalazioni bug e discussioni di community",
+        "buttons": {
+            "joinDiscord": "Unisciti a Discord",
+            "reportBug": "Segnala bug",
+            "suggestions": "Suggerimenti"
+        },
+        "serverStatus": {
+            "online": "In linea",
+            "offline": "Non in linea",
+            "checking": "Verifica...",
+            "onlineMessage": "Servizi CDN & API operativi.",
+            "offlineMessage": "Alcuni servizi potrebbero essere inattivi.",
+            "checkingMessage": "Verifica server..."
+        }
+    },
+    "donation": {
+        "title": "Supporta il progetto",
+        "description": "Questo plugin è completamente gratuito, ma mantenere il server CDN e l'API ha dei costi.",
+        "subtitle": "Le tue donazioni aiutano a mantenere il servizio attivo per tutti!",
+        "button": "Dona via PayPal"
+    },
+    "changelog": {
+        "title": "Registro delle modifiche",
+        "subtitle": "Scopri tutte le nuove funzionalità e i miglioramenti delle ultime versioni di RLProfilePicturesREVAMP",
+        "latestVersion": "Ultima Versione",
+        "noChangelogAvailable": "Nessun log delle modifiche disponibile",
+        "changelogComingSoon": "I log delle modifiche saranno disponibili a breve",
+        "loading": "Carico le modifiche...",
+        "errorLoading": "Errore durante il caricamento dei log delle modifiche",
+        "version": "Versione"
+    },
+    "footer": {
+        "copyright": "RLProfilePicturesREVAMP © 2025 — Creato con ❤️ da Borgo",
+        "websiteBy": "Sito web di",
+        "privacyPolicy": "Informativa sulla privacy",
+        "termsOfService": "Termini di servizio"
+    },
+    "backToTop": "Torna su"
+}
